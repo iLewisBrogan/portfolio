@@ -33,7 +33,7 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 <br>
 <br>
 
-## IBM's Call for Code spot Challenge - Climate Change (First Place)
+## IBM's Call for Code University Spot Challenge - Climate Change (First Place)
 <a href="https://github.com/iLewisBrogan/callforcode-uhi">Click here for Github Repo</a>
 <p><a href="https://youtu.be/GmEKql_ZfGg?t=1080">Click here to see IBM's announcement for our winning team on YouTube</a>
 <p>Frameworks, Technologies and Languages used:
