@@ -21,8 +21,8 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 
 ## 'To-Do List' Project, 2 Week Sprint.
 <a href="https://github.com/iLewisBrogan/todoapp_team1_sprint">Click here for Github Repo</a>
-<p>Frameworks, Technologies and Languages used:
-<p>Vue.js, Javascript, Bootstrap, HTML & CSS
+<p>Frameworks, Services, Technologies and Languages used:
+<p>Vue.js, IBM Cloud, Javascript, Bootstrap, HTML & CSS
 <br>
 <br>
 
