@@ -49,7 +49,6 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 - [HERE.com API Key](https://developer.here.com/ref/IBM_starterkit_Covid?create=Freemium-Basic)
 - [HERE Maps](https://developer.here.com/products/maps)
 - [HERE Routing](https://developer.here.com/products/routing)
-- [Integrate interactive maps and location features into your application](https://developer.here.com/documentation/)
 <br>
 <br>
 
