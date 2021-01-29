@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 # Team Projects:
 ## 'Covid19' Project, 2 Week Sprint. 
 <a href="https://github.com/iLewisBrogan/covid19app_team_sprint">Click here for Github Repo</a>
-<p>Frameworks, Technologies and Languages used:
+<p>Frameworks, Services, Technologies and Languages used:
 <p> Vue.js, IBM Cloud, <a href="https://covid19api.com/">Covid19 API</a>, <a href="https://newsapi.org/">NewsAPI</a>, HTML, CSS & Javascript
 <br>
 <br>
@@ -23,6 +23,13 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 <a href="https://github.com/iLewisBrogan/todoapp_team1_sprint">Click here for Github Repo</a>
 <p>Frameworks, Technologies and Languages used:
 <p>Vue.js, Javascript, Bootstrap, HTML & CSS
+<br>
+<br>
+
+## 'JUCE C++ Application' Project, 4 Week Sprint.
+<a href="https://github.com/iLewisBrogan/juceCpp-uhi-sprint">Click here for Github Repo</a>
+<p>Frameworks, Services, Technologies and Languages used:
+<p>IBM Cloudant, Node.js, JUCE & C++
 <br>
 <br>
 
