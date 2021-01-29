@@ -56,7 +56,7 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 ## 'Covid19 API Application' Project. 
 <a href="https://github.com/iLewisBrogan/covid19app_personal">Click here for Github Repo</a>
 <p>Frameworks, Technologies and Languages used:
-<p><a href="https://covid19api.com/">Covid19 API</a>, MongoDB, Vue.js, Javascript, HTML & CSS
+<p><a href="https://covid19api.com/">Covid19 API</a>, Vue.js, Javascript, HTML & CSS
 <br>
 <br>
 
