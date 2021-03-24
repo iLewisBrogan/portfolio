@@ -54,9 +54,16 @@ LinkedIn: https://www.linkedin.com/in/lewis-brogan-14325b138/
 
 # Solo Projects:
 ## 'Covid19 API Application' Project. 
-<a href="https://github.com/iLewisBrogan/covid19app_personal">Click here for Github Repo</a>
+<a href="https://github.com/iLewisBrogan/covid19app_personal">Click here for Github Repo</a> | <a href="http://covid19api.ilewisbrogan.com/">Click here for Live version</a>
 <p>Frameworks, Technologies and Languages used:
 <p><a href="https://covid19api.com/">Covid19 API</a>, Vue.js, Javascript, HTML & CSS
+<br>
+<br>
+ 
+## 'Monopoly game in Vue' Project. 
+<a href="http://monopoly.ilewisbrogan.com/">Click here for Live version</a>
+<p>Frameworks, Technologies and Languages used:
+<p>Vue.js, Javascript, HTML & CSS
 <br>
 <br>
 
